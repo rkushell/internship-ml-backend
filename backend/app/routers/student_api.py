@@ -1,12 +1,24 @@
-from fastapi import APIRouter, HTTPException
-from backend.app.models import PredictRequest, PredictResponse
-from backend.app.services.predict_service import predict_single_pair
+from fastapi import APIRouter
+from pydantic import BaseModel
+from backend.app.services.model_service import predict_score
 
-router = APIRouter()
+router = APIRouter(tags=["Student"])
 
-@router.post("/", response_model=PredictResponse)
-def predict(req: PredictRequest):
-    try:
-        return predict_single_pair(req)
-    except Exception as e:
-        raise HTTPException(status_code=500, detail=str(e))
+class StudentInput(BaseModel):
+    skills: str
+    gpa: float
+    reservation: str
+    gender: str
+    rural: int
+
+class InternshipInput(BaseModel):
+    req_skills: str
+    stipend: float
+
+class PredictRequest(BaseModel):
+    student: StudentInput
+    internship: InternshipInput
+
+@router.post("/predict")
+def predict(data: PredictRequest):
+    return predict_score(data)

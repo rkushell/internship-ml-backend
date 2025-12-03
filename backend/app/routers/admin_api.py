@@ -1,31 +1,28 @@
-from fastapi import APIRouter, HTTPException
-from backend.app.services.allocate_service import (
-    train_models_service,
-    run_allocation_pipeline,
-)
+from fastapi import APIRouter, UploadFile, File
+from backend.app.services.data_service import upload_students_csv, upload_internships_csv
+from backend.app.services.train_service import train_all
+from backend.app.services.allocate_service import allocate_all, get_dashboard_data
 
-router = APIRouter()
+router = APIRouter(tags=["Admin"])
 
+@router.post("/upload/students")
+def upload_students(file: UploadFile = File(...)):
+    upload_students_csv(file)
+    return {"message": "students.csv uploaded"}
+
+@router.post("/upload/internships")
+def upload_internships(file: UploadFile = File(...)):
+    upload_internships_csv(file)
+    return {"message": "internships.csv uploaded"}
 
 @router.post("/train")
-def admin_train():
-    """
-    Heavy step: trains the ML models using current students.csv + internships.csv.
-    You do NOT need to call this often – only when data distribution changes a lot.
-    """
-    try:
-        return train_models_service()
-    except Exception as e:
-        raise HTTPException(status_code=500, detail=str(e))
-
+def train():
+    return train_all()
 
 @router.post("/allocate")
-def admin_allocate():
-    """
-    Fast step: uses already-trained models to run allocation on current CSVs.
-    Produces final allocations + fairness + boost reports + dashboard JSON.
-    """
-    try:
-        return run_allocation_pipeline()
-    except Exception as e:
-        raise HTTPException(status_code=500, detail=str(e))
+def allocate():
+    return allocate_all()
+
+@router.get("/dashboard")
+def dashboard():
+    return get_dashboard_data()
