@@ -1,0 +1,36 @@
+{
+  "total_applicants": 6000,
+  "total_placed": 1448,
+  "placement_rate": 0.24133333333333334,
+  "category_stats": {
+    "GEN": {
+      "eligible": 227700,
+      "selected": 44505,
+      "rate": 0.19545454545454546
+    },
+    "OBC": {
+      "eligible": 107502,
+      "selected": 32016,
+      "rate": 0.29781771501925547
+    },
+    "SC": {
+      "eligible": 48783,
+      "selected": 13869,
+      "rate": 0.2842998585572843
+    },
+    "ST": {
+      "eligible": 30015,
+      "selected": 9522,
+      "rate": 0.31724137931034485
+    }
+  },
+  "gender_counts_selected": {
+    "M": 52095,
+    "F": 46368,
+    "O": 1449
+  },
+  "rural": {
+    "eligible": 168774,
+    "selected": 46506
+  }
+}

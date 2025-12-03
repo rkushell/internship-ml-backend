@@ -1,0 +1,23 @@
+{
+  "boosted_students": 2679,
+  "boosted_selected": 789,
+  "boosted_not_selected": 1890,
+  "uplift_success_rate": 0.2945,
+  "category_uplift_success": {
+    "OBC": 457,
+    "SC": 197,
+    "ST": 135
+  },
+  "rural_uplift_success": 457,
+  "avg_student_boost": 0.1645,
+  "max_boost_per_student": 0.25,
+  "coverage_ratio": 0.4465,
+  "counterfactual_helped_students": 770,
+  "counterfactual_help_rate_among_boosted": 0.2874,
+  "category_counterfactual_help": {
+    "OBC": 443,
+    "SC": 196,
+    "ST": 131
+  },
+  "rural_counterfactual_help": 457
+}

@@ -1,0 +1,19 @@
+version: "3.9"
+
+services:
+  backend:
+    build: .
+    container_name: internship-backend
+    ports:
+      - "8000:8000"
+    restart: unless-stopped
+
+    # Persist important folders on your Windows machine
+    volumes:
+      - ./data:/app/data
+      - ./output:/app/output
+      - ./json_outputs:/app/json_outputs
+
+    # Environment variables (optional for future DB use)
+    environment:
+      - PYTHONUNBUFFERED=1

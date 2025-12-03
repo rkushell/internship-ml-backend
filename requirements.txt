@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+gunicorn
+pydantic
+python-multipart
+
+pandas
+numpy
+scikit-learn
+lightgbm
+scipy
+
+# If using tfidf vectorizer
+joblib
+
+# Utils
+requests

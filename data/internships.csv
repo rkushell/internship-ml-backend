@@ -1,0 +1,70 @@
+internship_id,sector,tier,capacity,cap_ur,cap_rural,req_skills,stipend,location_type
+I001,Mechanical,Tier2,19,11,8,manufacturing;design;cad_modelling;autocad,5000,Office
+I002,Mechanical,Tier2,25,10,15,autocad;analysis,5000,Office
+I003,IT Services,Tier1,18,15,3,ml;sql;networking;python,5000,Remote
+I004,Automobile,Tier2,24,11,13,surveying;construction_management;autocad;design,5000,Office
+I005,Automobile,Tier2,19,9,10,design;analysis;construction_management,5000,Factory
+I006,Mechanical,Tier1,24,15,9,manufacturing;cad_modelling;analysis;design,5000,Office
+I007,Electronics,Tier2,18,6,12,manufacturing;design;networking;pcb_design,5000,Factory
+I008,Electronics,Tier2,21,10,11,networking;manufacturing;python;design,5000,Factory
+I009,Mechanical,Tier2,19,9,10,design;autocad,5000,Office
+I010,Finance,Tier1,18,10,8,presentation;sql,5000,Office
+I011,Finance,Tier1,19,14,5,communication;analysis,5000,Office
+I012,Marketing,Tier2,21,7,14,writing;excel;seo,5000,Office
+I013,Automobile,Tier2,21,13,8,surveying;analysis;construction_management;design,5000,Office
+I014,IT Services,Tier2,24,15,9,backend;python;frontend,5000,Office
+I015,Finance,Tier1,23,21,2,communication;presentation;excel,5000,Office
+I016,Electronics,Tier2,18,10,8,manufacturing;python,5000,Factory
+I017,Finance,Tier2,19,10,9,analysis;presentation,5000,Office
+I018,IT Services,Tier1,21,15,6,python;java;backend,5000,Office
+I019,Automobile,Tier2,19,7,12,construction_management;analysis;surveying;autocad,5000,Factory
+I020,Finance,Tier2,18,6,12,financial_modeling;excel;presentation,5000,Office
+I021,Mechanical,Tier2,20,11,9,design;manufacturing;autocad;cad_modelling,5000,Factory
+I022,Marketing,Tier3,23,1,22,writing;seo,5000,Office
+I023,IT Services,Tier2,25,12,13,ml;frontend;sql;java,5000,Office
+I024,Electronics,Tier3,25,9,16,python;pcb_design;design,5000,Office
+I025,Automobile,Tier3,20,5,15,surveying;design,5000,Office
+I026,Electronics,Tier2,25,16,9,networking;pcb_design;design,5000,Factory
+I027,Automobile,Tier2,25,14,11,autocad;construction_management;analysis,5000,Office
+I028,Mechanical,Tier1,19,17,2,design;analysis;cad_modelling,5000,Office
+I029,Marketing,Tier2,18,8,10,design;communication,5000,Office
+I030,IT Services,Tier1,21,17,4,python;sql;java;cloud,5000,Remote
+I031,Finance,Tier3,21,8,13,sql;analysis,5000,Office
+I032,Automobile,Tier2,22,9,13,construction_management;surveying;autocad;design,5000,Factory
+I033,Electronics,Tier2,22,12,10,python;design;analysis,5000,Factory
+I034,Electronics,Tier2,22,12,10,design;python;manufacturing,5000,Factory
+I035,Finance,Tier2,19,10,9,presentation;financial_modeling,5000,Office
+I036,IT Services,Tier1,20,16,4,frontend;python,5000,Office
+I037,IT Services,Tier2,22,9,13,networking;python;cloud;backend,5000,Remote
+I038,Finance,Tier2,18,8,10,sql;analysis,5000,Office
+I039,Finance,Tier1,20,20,0,excel;sql,5000,Office
+I040,Marketing,Tier2,24,13,11,social_media;design;writing,5000,Remote
+I041,Marketing,Tier2,21,9,12,communication;design;excel;seo,5000,Remote
+I042,Finance,Tier1,18,18,0,communication;excel;presentation,5000,Office
+I043,Marketing,Tier1,24,24,0,presentation;seo;communication;writing,5000,Office
+I044,Finance,Tier2,18,7,11,sql;presentation;financial_modeling,5000,Office
+I045,Finance,Tier1,21,15,6,communication;analysis;excel,5000,Office
+I046,IT Services,Tier2,21,8,13,cloud;backend;frontend,5000,Remote
+I047,Mechanical,Tier1,25,24,1,cad_modelling;design;manufacturing,5000,Factory
+I048,IT Services,Tier1,20,16,4,ml;java,5000,Remote
+I049,Marketing,Tier1,18,11,7,writing;seo;design;presentation,5000,Remote
+I050,IT Services,Tier1,24,17,7,ml;frontend;networking,5000,Remote
+I051,IT Services,Tier1,20,14,6,networking;ml;python,5000,Remote
+I052,IT Services,Tier1,21,17,4,cloud;ml;frontend,5000,Office
+I053,IT Services,Tier1,22,15,7,backend;sql;cloud,5000,Remote
+I054,IT Services,Tier1,23,18,5,networking;sql;frontend;backend,5000,Office
+I055,IT Services,Tier1,20,18,2,cloud;ml;backend;python,5000,Remote
+I056,IT Services,Tier1,21,21,0,ml;networking;python,5000,Office
+I057,IT Services,Tier1,25,17,8,backend;sql;cloud;ml,5000,Remote
+I058,IT Services,Tier1,19,19,0,cloud;sql,5000,Remote
+I059,Mechanical,Tier3,20,3,17,analysis;design;manufacturing;autocad,5000,Factory
+I060,Electronics,Tier2,24,13,11,design;pcb_design;analysis;python,5000,Factory
+I061,Healthcare,Tier2,21,7,14,writing;ml;communication,5000,Remote
+I062,Healthcare,Tier1,19,13,6,analysis;communication;excel,5000,Remote
+I063,Healthcare,Tier1,19,14,5,ml;analysis;python;presentation,5000,Office
+I064,Healthcare,Tier2,25,10,15,sql;python;analysis;ml,5000,Remote
+I065,Healthcare,Tier2,18,6,12,sql;presentation;writing;communication,5000,Remote
+I066,Healthcare,Tier2,21,12,9,communication;sql;writing,5000,Office
+I067,Healthcare,Tier2,24,12,12,communication;writing;ml;sql,5000,Remote
+I068,Healthcare,Tier1,18,15,3,analysis;communication,5000,Office
+I069,Healthcare,Tier2,19,12,7,presentation;excel;ml;analysis,5000,Office

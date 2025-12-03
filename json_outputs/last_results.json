@@ -1,0 +1,7379 @@
+{
+  "students": 6000,
+  "internships": 69,
+  "allocations_count": 1448,
+  "allocations": [
+    {
+      "student_id": "S00867",
+      "internship_id": "I001",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S03245",
+      "internship_id": "I001",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S05458",
+      "internship_id": "I001",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S05552",
+      "internship_id": "I001",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S05791",
+      "internship_id": "I001",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S01977",
+      "internship_id": "I001",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S00168",
+      "internship_id": "I001",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S04645",
+      "internship_id": "I001",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S03432",
+      "internship_id": "I001",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S02566",
+      "internship_id": "I001",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S02265",
+      "internship_id": "I001",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S04504",
+      "internship_id": "I001",
+      "pref_rank": 4
+    },
+    {
+      "student_id": "S02335",
+      "internship_id": "I001",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S01638",
+      "internship_id": "I001",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S05829",
+      "internship_id": "I001",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S00183",
+      "internship_id": "I001",
+      "pref_rank": 4
+    },
+    {
+      "student_id": "S01699",
+      "internship_id": "I001",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S03746",
+      "internship_id": "I001",
+      "pref_rank": 4
+    },
+    {
+      "student_id": "S05781",
+      "internship_id": "I001",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S05506",
+      "internship_id": "I002",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S05817",
+      "internship_id": "I063",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S04121",
+      "internship_id": "I002",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S05799",
+      "internship_id": "I039",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S02609",
+      "internship_id": "I002",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S03335",
+      "internship_id": "I002",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S03283",
+      "internship_id": "I002",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S05554",
+      "internship_id": "I002",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S05030",
+      "internship_id": "I009",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S00745",
+      "internship_id": "I041",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S00989",
+      "internship_id": "I002",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S02124",
+      "internship_id": "I002",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S04434",
+      "internship_id": "I002",
+      "pref_rank": 4
+    },
+    {
+      "student_id": "S00302",
+      "internship_id": "I002",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S02422",
+      "internship_id": "I002",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S03362",
+      "internship_id": "I002",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S00399",
+      "internship_id": "I002",
+      "pref_rank": 4
+    },
+    {
+      "student_id": "S02009",
+      "internship_id": "I002",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S00327",
+      "internship_id": "I002",
+      "pref_rank": 4
+    },
+    {
+      "student_id": "S03856",
+      "internship_id": "I002",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S02000",
+      "internship_id": "I002",
+      "pref_rank": 5
+    },
+    {
+      "student_id": "S04369",
+      "internship_id": "I002",
+      "pref_rank": 4
+    },
+    {
+      "student_id": "S04865",
+      "internship_id": "I002",
+      "pref_rank": 4
+    },
+    {
+      "student_id": "S00948",
+      "internship_id": "I002",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S02112",
+      "internship_id": "I018",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S02650",
+      "internship_id": "I003",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S00571",
+      "internship_id": "I057",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S04659",
+      "internship_id": "I003",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S03756",
+      "internship_id": "I039",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S05621",
+      "internship_id": "I003",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S05332",
+      "internship_id": "I003",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S00907",
+      "internship_id": "I003",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S03322",
+      "internship_id": "I003",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S04349",
+      "internship_id": "I003",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S05266",
+      "internship_id": "I003",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S00173",
+      "internship_id": "I003",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S01172",
+      "internship_id": "I003",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S02218",
+      "internship_id": "I003",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S00532",
+      "internship_id": "I003",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S03098",
+      "internship_id": "I003",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S01229",
+      "internship_id": "I003",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S02242",
+      "internship_id": "I003",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S05125",
+      "internship_id": "I003",
+      "pref_rank": 4
+    },
+    {
+      "student_id": "S01049",
+      "internship_id": "I004",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S00997",
+      "internship_id": "I022",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S04507",
+      "internship_id": "I062",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S03953",
+      "internship_id": "I004",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S00340",
+      "internship_id": "I004",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S04245",
+      "internship_id": "I058",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S03768",
+      "internship_id": "I018",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S05807",
+      "internship_id": "I038",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S00652",
+      "internship_id": "I004",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S02744",
+      "internship_id": "I004",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S02190",
+      "internship_id": "I004",
+      "pref_rank": 4
+    },
+    {
+      "student_id": "S05518",
+      "internship_id": "I054",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S01328",
+      "internship_id": "I021",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S03467",
+      "internship_id": "I034",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S04058",
+      "internship_id": "I064",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S02560",
+      "internship_id": "I057",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S04162",
+      "internship_id": "I004",
+      "pref_rank": 7
+    },
+    {
+      "student_id": "S05489",
+      "internship_id": "I061",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S05878",
+      "internship_id": "I004",
+      "pref_rank": 7
+    },
+    {
+      "student_id": "S01826",
+      "internship_id": "I004",
+      "pref_rank": 5
+    },
+    {
+      "student_id": "S05007",
+      "internship_id": "I053",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S05308",
+      "internship_id": "I004",
+      "pref_rank": 7
+    },
+    {
+      "student_id": "S03462",
+      "internship_id": "I027",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S03861",
+      "internship_id": "I047",
+      "pref_rank": 4
+    },
+    {
+      "student_id": "S03555",
+      "internship_id": "I030",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S04055",
+      "internship_id": "I005",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S02233",
+      "internship_id": "I005",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S04974",
+      "internship_id": "I062",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S01180",
+      "internship_id": "I004",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S00281",
+      "internship_id": "I041",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S03517",
+      "internship_id": "I025",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S04834",
+      "internship_id": "I005",
+      "pref_rank": 7
+    },
+    {
+      "student_id": "S03893",
+      "internship_id": "I039",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S04244",
+      "internship_id": "I068",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S05010",
+      "internship_id": "I005",
+      "pref_rank": 7
+    },
+    {
+      "student_id": "S04500",
+      "internship_id": "I005",
+      "pref_rank": 7
+    },
+    {
+      "student_id": "S05097",
+      "internship_id": "I005",
+      "pref_rank": 7
+    },
+    {
+      "student_id": "S03905",
+      "internship_id": "I031",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S05199",
+      "internship_id": "I031",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S04756",
+      "internship_id": "I054",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S00856",
+      "internship_id": "I005",
+      "pref_rank": 7
+    },
+    {
+      "student_id": "S04592",
+      "internship_id": "I005",
+      "pref_rank": 7
+    },
+    {
+      "student_id": "S04109",
+      "internship_id": "I005",
+      "pref_rank": 7
+    },
+    {
+      "student_id": "S01588",
+      "internship_id": "I006",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S01024",
+      "internship_id": "I006",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S02409",
+      "internship_id": "I006",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S00014",
+      "internship_id": "I006",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S05522",
+      "internship_id": "I006",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S03802",
+      "internship_id": "I006",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S03584",
+      "internship_id": "I060",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S02387",
+      "internship_id": "I006",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S00924",
+      "internship_id": "I006",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S05258",
+      "internship_id": "I006",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S00910",
+      "internship_id": "I006",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S03553",
+      "internship_id": "I006",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S02978",
+      "internship_id": "I006",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S05023",
+      "internship_id": "I006",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S02857",
+      "internship_id": "I006",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S00124",
+      "internship_id": "I006",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S00396",
+      "internship_id": "I028",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S03993",
+      "internship_id": "I006",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S02167",
+      "internship_id": "I006",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S01087",
+      "internship_id": "I049",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S00935",
+      "internship_id": "I006",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S00053",
+      "internship_id": "I006",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S05909",
+      "internship_id": "I006",
+      "pref_rank": 4
+    },
+    {
+      "student_id": "S01970",
+      "internship_id": "I016",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S02533",
+      "internship_id": "I007",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S03350",
+      "internship_id": "I007",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S00913",
+      "internship_id": "I007",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S00204",
+      "internship_id": "I007",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S01810",
+      "internship_id": "I007",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S01980",
+      "internship_id": "I022",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S05283",
+      "internship_id": "I045",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S05835",
+      "internship_id": "I009",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S05687",
+      "internship_id": "I034",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S00444",
+      "internship_id": "I007",
+      "pref_rank": 6
+    },
+    {
+      "student_id": "S03490",
+      "internship_id": "I024",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S03066",
+      "internship_id": "I007",
+      "pref_rank": 7
+    },
+    {
+      "student_id": "S00552",
+      "internship_id": "I007",
+      "pref_rank": 7
+    },
+    {
+      "student_id": "S04154",
+      "internship_id": "I067",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S02701",
+      "internship_id": "I029",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S01232",
+      "internship_id": "I007",
+      "pref_rank": 7
+    },
+    {
+      "student_id": "S04176",
+      "internship_id": "I011",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S05657",
+      "internship_id": "I057",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S03463",
+      "internship_id": "I008",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S05857",
+      "internship_id": "I008",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S00022",
+      "internship_id": "I008",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S02322",
+      "internship_id": "I008",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S02828",
+      "internship_id": "I008",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S00421",
+      "internship_id": "I008",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S05405",
+      "internship_id": "I008",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S03929",
+      "internship_id": "I008",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S02291",
+      "internship_id": "I008",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S03174",
+      "internship_id": "I008",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S00491",
+      "internship_id": "I008",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S01369",
+      "internship_id": "I008",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S04942",
+      "internship_id": "I015",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S03264",
+      "internship_id": "I021",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S03892",
+      "internship_id": "I008",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S02025",
+      "internship_id": "I008",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S02519",
+      "internship_id": "I008",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S01773",
+      "internship_id": "I008",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S05979",
+      "internship_id": "I037",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S02369",
+      "internship_id": "I008",
+      "pref_rank": 6
+    },
+    {
+      "student_id": "S05587",
+      "internship_id": "I009",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S00144",
+      "internship_id": "I009",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S03031",
+      "internship_id": "I009",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S04624",
+      "internship_id": "I009",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S00821",
+      "internship_id": "I009",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S00541",
+      "internship_id": "I009",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S01563",
+      "internship_id": "I009",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S04505",
+      "internship_id": "I066",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S02413",
+      "internship_id": "I009",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S01243",
+      "internship_id": "I009",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S03310",
+      "internship_id": "I009",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S02380",
+      "internship_id": "I009",
+      "pref_rank": 4
+    },
+    {
+      "student_id": "S00304",
+      "internship_id": "I009",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S05778",
+      "internship_id": "I009",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S02186",
+      "internship_id": "I009",
+      "pref_rank": 4
+    },
+    {
+      "student_id": "S00592",
+      "internship_id": "I036",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S00072",
+      "internship_id": "I004",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S03692",
+      "internship_id": "I009",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S03633",
+      "internship_id": "I010",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S01896",
+      "internship_id": "I010",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S05055",
+      "internship_id": "I010",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S01181",
+      "internship_id": "I010",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S02765",
+      "internship_id": "I010",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S00959",
+      "internship_id": "I010",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S00284",
+      "internship_id": "I010",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S03743",
+      "internship_id": "I010",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S04854",
+      "internship_id": "I010",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S05414",
+      "internship_id": "I010",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S03610",
+      "internship_id": "I010",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S05056",
+      "internship_id": "I010",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S02053",
+      "internship_id": "I010",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S03749",
+      "internship_id": "I012",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S02171",
+      "internship_id": "I010",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S01835",
+      "internship_id": "I010",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S04325",
+      "internship_id": "I057",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S05842",
+      "internship_id": "I010",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S00774",
+      "internship_id": "I011",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S03639",
+      "internship_id": "I011",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S04276",
+      "internship_id": "I011",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S02782",
+      "internship_id": "I011",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S03366",
+      "internship_id": "I004",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S05660",
+      "internship_id": "I011",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S00751",
+      "internship_id": "I011",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S03091",
+      "internship_id": "I011",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S00636",
+      "internship_id": "I011",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S03718",
+      "internship_id": "I011",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S03183",
+      "internship_id": "I011",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S01759",
+      "internship_id": "I011",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S04721",
+      "internship_id": "I011",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S03667",
+      "internship_id": "I011",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S03941",
+      "internship_id": "I011",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S03999",
+      "internship_id": "I011",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S01155",
+      "internship_id": "I048",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S02091",
+      "internship_id": "I011",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S02652",
+      "internship_id": "I041",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S03751",
+      "internship_id": "I012",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S05464",
+      "internship_id": "I012",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S05185",
+      "internship_id": "I012",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S00916",
+      "internship_id": "I012",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S00192",
+      "internship_id": "I012",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S05611",
+      "internship_id": "I012",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S01537",
+      "internship_id": "I040",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S03485",
+      "internship_id": "I012",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S05578",
+      "internship_id": "I012",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S04732",
+      "internship_id": "I062",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S00743",
+      "internship_id": "I012",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S02151",
+      "internship_id": "I012",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S00890",
+      "internship_id": "I012",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S03654",
+      "internship_id": "I049",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S00909",
+      "internship_id": "I012",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S04717",
+      "internship_id": "I012",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S03268",
+      "internship_id": "I041",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S01808",
+      "internship_id": "I012",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S02236",
+      "internship_id": "I012",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S01890",
+      "internship_id": "I012",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S02577",
+      "internship_id": "I013",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S03640",
+      "internship_id": "I013",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S05401",
+      "internship_id": "I013",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S03493",
+      "internship_id": "I013",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S03077",
+      "internship_id": "I013",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S03546",
+      "internship_id": "I013",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S00659",
+      "internship_id": "I041",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S05804",
+      "internship_id": "I030",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S02219",
+      "internship_id": "I013",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S03072",
+      "internship_id": "I013",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S01041",
+      "internship_id": "I013",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S02971",
+      "internship_id": "I013",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S01700",
+      "internship_id": "I013",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S01564",
+      "internship_id": "I013",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S01196",
+      "internship_id": "I013",
+      "pref_rank": 4
+    },
+    {
+      "student_id": "S01702",
+      "internship_id": "I013",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S04268",
+      "internship_id": "I013",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S03290",
+      "internship_id": "I034",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S00898",
+      "internship_id": "I013",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S02587",
+      "internship_id": "I013",
+      "pref_rank": 4
+    },
+    {
+      "student_id": "S01285",
+      "internship_id": "I013",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S05119",
+      "internship_id": "I018",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S00297",
+      "internship_id": "I014",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S05642",
+      "internship_id": "I014",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S02984",
+      "internship_id": "I014",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S05165",
+      "internship_id": "I014",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S05409",
+      "internship_id": "I014",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S01179",
+      "internship_id": "I014",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S05550",
+      "internship_id": "I018",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S03995",
+      "internship_id": "I014",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S02768",
+      "internship_id": "I014",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S00060",
+      "internship_id": "I014",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S01085",
+      "internship_id": "I014",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S05438",
+      "internship_id": "I014",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S00817",
+      "internship_id": "I014",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S05721",
+      "internship_id": "I014",
+      "pref_rank": 4
+    },
+    {
+      "student_id": "S05871",
+      "internship_id": "I014",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S00301",
+      "internship_id": "I055",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S04628",
+      "internship_id": "I014",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S03544",
+      "internship_id": "I014",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S05279",
+      "internship_id": "I014",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S04241",
+      "internship_id": "I014",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S00765",
+      "internship_id": "I014",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S03015",
+      "internship_id": "I014",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S05703",
+      "internship_id": "I015",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S03894",
+      "internship_id": "I015",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S03307",
+      "internship_id": "I015",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S05444",
+      "internship_id": "I015",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S02057",
+      "internship_id": "I015",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S05851",
+      "internship_id": "I015",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S01867",
+      "internship_id": "I015",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S02385",
+      "internship_id": "I015",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S01345",
+      "internship_id": "I015",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S00351",
+      "internship_id": "I015",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S02121",
+      "internship_id": "I015",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S05679",
+      "internship_id": "I015",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S03414",
+      "internship_id": "I015",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S03358",
+      "internship_id": "I015",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S04270",
+      "internship_id": "I015",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S02371",
+      "internship_id": "I015",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S02432",
+      "internship_id": "I015",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S03381",
+      "internship_id": "I015",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S00468",
+      "internship_id": "I015",
+      "pref_rank": 4
+    },
+    {
+      "student_id": "S02044",
+      "internship_id": "I015",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S00320",
+      "internship_id": "I046",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S02457",
+      "internship_id": "I015",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S00591",
+      "internship_id": "I016",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S05484",
+      "internship_id": "I016",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S01965",
+      "internship_id": "I016",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S02042",
+      "internship_id": "I016",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S05847",
+      "internship_id": "I016",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S01844",
+      "internship_id": "I025",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S02628",
+      "internship_id": "I045",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S02950",
+      "internship_id": "I016",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S00172",
+      "internship_id": "I016",
+      "pref_rank": 4
+    },
+    {
+      "student_id": "S01108",
+      "internship_id": "I014",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S00250",
+      "internship_id": "I002",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S04886",
+      "internship_id": "I016",
+      "pref_rank": 5
+    },
+    {
+      "student_id": "S00562",
+      "internship_id": "I043",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S03233",
+      "internship_id": "I016",
+      "pref_rank": 4
+    },
+    {
+      "student_id": "S03131",
+      "internship_id": "I033",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S01228",
+      "internship_id": "I021",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S05355",
+      "internship_id": "I016",
+      "pref_rank": 7
+    },
+    {
+      "student_id": "S01948",
+      "internship_id": "I017",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S05767",
+      "internship_id": "I017",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S05820",
+      "internship_id": "I017",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S00915",
+      "internship_id": "I017",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S05793",
+      "internship_id": "I017",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S04579",
+      "internship_id": "I017",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S05591",
+      "internship_id": "I017",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S00101",
+      "internship_id": "I017",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S04210",
+      "internship_id": "I017",
+      "pref_rank": 4
+    },
+    {
+      "student_id": "S00343",
+      "internship_id": "I017",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S02384",
+      "internship_id": "I017",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S03764",
+      "internship_id": "I017",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S05104",
+      "internship_id": "I017",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S04480",
+      "internship_id": "I017",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S05754",
+      "internship_id": "I017",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S01059",
+      "internship_id": "I017",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S00497",
+      "internship_id": "I017",
+      "pref_rank": 4
+    },
+    {
+      "student_id": "S02117",
+      "internship_id": "I017",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S03357",
+      "internship_id": "I017",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S01818",
+      "internship_id": "I018",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S00788",
+      "internship_id": "I018",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S02045",
+      "internship_id": "I018",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S00157",
+      "internship_id": "I018",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S01865",
+      "internship_id": "I003",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S05622",
+      "internship_id": "I018",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S01750",
+      "internship_id": "I028",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S05723",
+      "internship_id": "I018",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S02791",
+      "internship_id": "I018",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S02230",
+      "internship_id": "I018",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S05217",
+      "internship_id": "I018",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S04881",
+      "internship_id": "I018",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S00240",
+      "internship_id": "I018",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S00954",
+      "internship_id": "I018",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S02012",
+      "internship_id": "I051",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S03671",
+      "internship_id": "I020",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S01916",
+      "internship_id": "I011",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S06000",
+      "internship_id": "I052",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S03818",
+      "internship_id": "I019",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S03661",
+      "internship_id": "I019",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S03080",
+      "internship_id": "I019",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S02188",
+      "internship_id": "I019",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S01936",
+      "internship_id": "I019",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S03127",
+      "internship_id": "I019",
+      "pref_rank": 4
+    },
+    {
+      "student_id": "S02086",
+      "internship_id": "I059",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S03714",
+      "internship_id": "I019",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S05980",
+      "internship_id": "I019",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S02728",
+      "internship_id": "I019",
+      "pref_rank": 5
+    },
+    {
+      "student_id": "S04354",
+      "internship_id": "I062",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S03778",
+      "internship_id": "I019",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S05743",
+      "internship_id": "I062",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S04025",
+      "internship_id": "I023",
+      "pref_rank": 4
+    },
+    {
+      "student_id": "S00176",
+      "internship_id": "I019",
+      "pref_rank": 6
+    },
+    {
+      "student_id": "S01961",
+      "internship_id": "I019",
+      "pref_rank": 7
+    },
+    {
+      "student_id": "S02531",
+      "internship_id": "I005",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S05630",
+      "internship_id": "I027",
+      "pref_rank": 4
+    },
+    {
+      "student_id": "S02224",
+      "internship_id": "I005",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S05366",
+      "internship_id": "I020",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S00828",
+      "internship_id": "I020",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S05431",
+      "internship_id": "I020",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S00635",
+      "internship_id": "I020",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S01325",
+      "internship_id": "I020",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S00723",
+      "internship_id": "I020",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S01008",
+      "internship_id": "I020",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S02510",
+      "internship_id": "I056",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S01582",
+      "internship_id": "I020",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S03537",
+      "internship_id": "I020",
+      "pref_rank": 4
+    },
+    {
+      "student_id": "S02074",
+      "internship_id": "I020",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S04561",
+      "internship_id": "I020",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S01919",
+      "internship_id": "I020",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S03674",
+      "internship_id": "I020",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S03471",
+      "internship_id": "I020",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S02702",
+      "internship_id": "I020",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S02106",
+      "internship_id": "I021",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S03579",
+      "internship_id": "I021",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S01053",
+      "internship_id": "I021",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S03627",
+      "internship_id": "I021",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S02680",
+      "internship_id": "I021",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S04605",
+      "internship_id": "I021",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S05136",
+      "internship_id": "I021",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S01271",
+      "internship_id": "I021",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S02557",
+      "internship_id": "I051",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S02616",
+      "internship_id": "I021",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S03704",
+      "internship_id": "I021",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S05108",
+      "internship_id": "I021",
+      "pref_rank": 4
+    },
+    {
+      "student_id": "S02298",
+      "internship_id": "I021",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S05403",
+      "internship_id": "I063",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S00214",
+      "internship_id": "I021",
+      "pref_rank": 7
+    },
+    {
+      "student_id": "S00896",
+      "internship_id": "I021",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S04859",
+      "internship_id": "I035",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S02370",
+      "internship_id": "I037",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S00884",
+      "internship_id": "I022",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S03564",
+      "internship_id": "I022",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S04179",
+      "internship_id": "I067",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S01110",
+      "internship_id": "I022",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S01255",
+      "internship_id": "I049",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S04726",
+      "internship_id": "I022",
+      "pref_rank": 4
+    },
+    {
+      "student_id": "S01313",
+      "internship_id": "I022",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S04995",
+      "internship_id": "I022",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S03248",
+      "internship_id": "I022",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S04692",
+      "internship_id": "I022",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S04447",
+      "internship_id": "I022",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S03196",
+      "internship_id": "I022",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S02349",
+      "internship_id": "I022",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S05711",
+      "internship_id": "I022",
+      "pref_rank": 4
+    },
+    {
+      "student_id": "S03530",
+      "internship_id": "I022",
+      "pref_rank": 5
+    },
+    {
+      "student_id": "S04566",
+      "internship_id": "I022",
+      "pref_rank": 7
+    },
+    {
+      "student_id": "S04502",
+      "internship_id": "I049",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S02351",
+      "internship_id": "I022",
+      "pref_rank": 7
+    },
+    {
+      "student_id": "S05162",
+      "internship_id": "I055",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S03279",
+      "internship_id": "I038",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S04517",
+      "internship_id": "I065",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S03637",
+      "internship_id": "I023",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S00459",
+      "internship_id": "I023",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S02092",
+      "internship_id": "I023",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S05198",
+      "internship_id": "I023",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S00041",
+      "internship_id": "I023",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S04625",
+      "internship_id": "I023",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S05200",
+      "internship_id": "I023",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S02456",
+      "internship_id": "I023",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S00195",
+      "internship_id": "I023",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S00883",
+      "internship_id": "I023",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S03754",
+      "internship_id": "I023",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S04662",
+      "internship_id": "I023",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S03496",
+      "internship_id": "I023",
+      "pref_rank": 4
+    },
+    {
+      "student_id": "S02098",
+      "internship_id": "I023",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S03208",
+      "internship_id": "I023",
+      "pref_rank": 4
+    },
+    {
+      "student_id": "S00229",
+      "internship_id": "I023",
+      "pref_rank": 5
+    },
+    {
+      "student_id": "S00841",
+      "internship_id": "I023",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S00518",
+      "internship_id": "I023",
+      "pref_rank": 5
+    },
+    {
+      "student_id": "S00837",
+      "internship_id": "I023",
+      "pref_rank": 4
+    },
+    {
+      "student_id": "S04833",
+      "internship_id": "I023",
+      "pref_rank": 4
+    },
+    {
+      "student_id": "S02093",
+      "internship_id": "I023",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S03043",
+      "internship_id": "I023",
+      "pref_rank": 5
+    },
+    {
+      "student_id": "S02918",
+      "internship_id": "I023",
+      "pref_rank": 5
+    },
+    {
+      "student_id": "S03888",
+      "internship_id": "I023",
+      "pref_rank": 5
+    },
+    {
+      "student_id": "S01122",
+      "internship_id": "I024",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S01145",
+      "internship_id": "I024",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S02185",
+      "internship_id": "I024",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S02429",
+      "internship_id": "I024",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S01989",
+      "internship_id": "I024",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S03956",
+      "internship_id": "I024",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S04970",
+      "internship_id": "I024",
+      "pref_rank": 4
+    },
+    {
+      "student_id": "S01449",
+      "internship_id": "I024",
+      "pref_rank": 4
+    },
+    {
+      "student_id": "S00823",
+      "internship_id": "I024",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S01006",
+      "internship_id": "I024",
+      "pref_rank": 4
+    },
+    {
+      "student_id": "S04839",
+      "internship_id": "I024",
+      "pref_rank": 5
+    },
+    {
+      "student_id": "S04168",
+      "internship_id": "I024",
+      "pref_rank": 5
+    },
+    {
+      "student_id": "S04029",
+      "internship_id": "I067",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S02779",
+      "internship_id": "I029",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S01452",
+      "internship_id": "I024",
+      "pref_rank": 7
+    },
+    {
+      "student_id": "S05439",
+      "internship_id": "I024",
+      "pref_rank": 7
+    },
+    {
+      "student_id": "S05497",
+      "internship_id": "I049",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S01450",
+      "internship_id": "I024",
+      "pref_rank": 7
+    },
+    {
+      "student_id": "S03784",
+      "internship_id": "I024",
+      "pref_rank": 7
+    },
+    {
+      "student_id": "S04483",
+      "internship_id": "I024",
+      "pref_rank": 7
+    },
+    {
+      "student_id": "S03008",
+      "internship_id": "I041",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S03345",
+      "internship_id": "I051",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S03086",
+      "internship_id": "I024",
+      "pref_rank": 7
+    },
+    {
+      "student_id": "S01912",
+      "internship_id": "I039",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S04508",
+      "internship_id": "I024",
+      "pref_rank": 7
+    },
+    {
+      "student_id": "S00084",
+      "internship_id": "I025",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S04619",
+      "internship_id": "I025",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S05593",
+      "internship_id": "I025",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S04477",
+      "internship_id": "I025",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S04494",
+      "internship_id": "I025",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S04385",
+      "internship_id": "I035",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S02072",
+      "internship_id": "I060",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S04076",
+      "internship_id": "I025",
+      "pref_rank": 5
+    },
+    {
+      "student_id": "S03962",
+      "internship_id": "I025",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S05592",
+      "internship_id": "I025",
+      "pref_rank": 5
+    },
+    {
+      "student_id": "S02840",
+      "internship_id": "I031",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S03720",
+      "internship_id": "I025",
+      "pref_rank": 5
+    },
+    {
+      "student_id": "S04148",
+      "internship_id": "I066",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S05004",
+      "internship_id": "I036",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S02833",
+      "internship_id": "I025",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S01092",
+      "internship_id": "I054",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S04812",
+      "internship_id": "I025",
+      "pref_rank": 4
+    },
+    {
+      "student_id": "S05483",
+      "internship_id": "I025",
+      "pref_rank": 7
+    },
+    {
+      "student_id": "S01984",
+      "internship_id": "I035",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S03944",
+      "internship_id": "I026",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S02642",
+      "internship_id": "I026",
+      "pref_rank": 4
+    },
+    {
+      "student_id": "S05223",
+      "internship_id": "I026",
+      "pref_rank": 4
+    },
+    {
+      "student_id": "S01619",
+      "internship_id": "I026",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S05907",
+      "internship_id": "I026",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S05320",
+      "internship_id": "I026",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S03491",
+      "internship_id": "I026",
+      "pref_rank": 5
+    },
+    {
+      "student_id": "S05480",
+      "internship_id": "I043",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S04204",
+      "internship_id": "I054",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S00648",
+      "internship_id": "I026",
+      "pref_rank": 7
+    },
+    {
+      "student_id": "S04646",
+      "internship_id": "I026",
+      "pref_rank": 7
+    },
+    {
+      "student_id": "S01397",
+      "internship_id": "I026",
+      "pref_rank": 7
+    },
+    {
+      "student_id": "S03391",
+      "internship_id": "I060",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S02730",
+      "internship_id": "I054",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S03149",
+      "internship_id": "I026",
+      "pref_rank": 7
+    },
+    {
+      "student_id": "S01408",
+      "internship_id": "I026",
+      "pref_rank": 7
+    },
+    {
+      "student_id": "S05383",
+      "internship_id": "I026",
+      "pref_rank": 7
+    },
+    {
+      "student_id": "S02776",
+      "internship_id": "I026",
+      "pref_rank": 7
+    },
+    {
+      "student_id": "S05499",
+      "internship_id": "I026",
+      "pref_rank": 7
+    },
+    {
+      "student_id": "S03884",
+      "internship_id": "I026",
+      "pref_rank": 7
+    },
+    {
+      "student_id": "S00521",
+      "internship_id": "I026",
+      "pref_rank": 7
+    },
+    {
+      "student_id": "S01798",
+      "internship_id": "I026",
+      "pref_rank": 7
+    },
+    {
+      "student_id": "S00583",
+      "internship_id": "I057",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S02209",
+      "internship_id": "I004",
+      "pref_rank": 4
+    },
+    {
+      "student_id": "S02605",
+      "internship_id": "I026",
+      "pref_rank": 7
+    },
+    {
+      "student_id": "S01634",
+      "internship_id": "I027",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S00852",
+      "internship_id": "I027",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S00265",
+      "internship_id": "I027",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S01503",
+      "internship_id": "I027",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S03230",
+      "internship_id": "I016",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S01880",
+      "internship_id": "I027",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S02051",
+      "internship_id": "I027",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S05381",
+      "internship_id": "I037",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S03732",
+      "internship_id": "I027",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S04072",
+      "internship_id": "I061",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S05931",
+      "internship_id": "I027",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S00699",
+      "internship_id": "I024",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S05919",
+      "internship_id": "I027",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S00435",
+      "internship_id": "I027",
+      "pref_rank": 4
+    },
+    {
+      "student_id": "S00058",
+      "internship_id": "I027",
+      "pref_rank": 4
+    },
+    {
+      "student_id": "S00257",
+      "internship_id": "I027",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S05038",
+      "internship_id": "I027",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S02103",
+      "internship_id": "I027",
+      "pref_rank": 4
+    },
+    {
+      "student_id": "S04931",
+      "internship_id": "I027",
+      "pref_rank": 4
+    },
+    {
+      "student_id": "S05670",
+      "internship_id": "I027",
+      "pref_rank": 5
+    },
+    {
+      "student_id": "S05984",
+      "internship_id": "I027",
+      "pref_rank": 5
+    },
+    {
+      "student_id": "S00119",
+      "internship_id": "I027",
+      "pref_rank": 4
+    },
+    {
+      "student_id": "S00499",
+      "internship_id": "I028",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S01277",
+      "internship_id": "I028",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S00653",
+      "internship_id": "I028",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S01044",
+      "internship_id": "I028",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S04966",
+      "internship_id": "I028",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S03986",
+      "internship_id": "I028",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S00850",
+      "internship_id": "I028",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S01839",
+      "internship_id": "I028",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S04226",
+      "internship_id": "I028",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S02718",
+      "internship_id": "I028",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S01739",
+      "internship_id": "I028",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S02207",
+      "internship_id": "I028",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S05659",
+      "internship_id": "I028",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S03797",
+      "internship_id": "I028",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S02454",
+      "internship_id": "I028",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S05838",
+      "internship_id": "I028",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S02675",
+      "internship_id": "I028",
+      "pref_rank": 4
+    },
+    {
+      "student_id": "S05816",
+      "internship_id": "I029",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S02876",
+      "internship_id": "I029",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S00134",
+      "internship_id": "I029",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S04791",
+      "internship_id": "I029",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S02011",
+      "internship_id": "I029",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S02229",
+      "internship_id": "I029",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S00230",
+      "internship_id": "I029",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S03798",
+      "internship_id": "I029",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S00181",
+      "internship_id": "I029",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S03603",
+      "internship_id": "I029",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S04279",
+      "internship_id": "I062",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S00044",
+      "internship_id": "I029",
+      "pref_rank": 5
+    },
+    {
+      "student_id": "S00325",
+      "internship_id": "I029",
+      "pref_rank": 4
+    },
+    {
+      "student_id": "S01002",
+      "internship_id": "I029",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S04943",
+      "internship_id": "I029",
+      "pref_rank": 5
+    },
+    {
+      "student_id": "S00481",
+      "internship_id": "I029",
+      "pref_rank": 4
+    },
+    {
+      "student_id": "S04329",
+      "internship_id": "I029",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S00906",
+      "internship_id": "I041",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S01239",
+      "internship_id": "I030",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S01280",
+      "internship_id": "I030",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S01167",
+      "internship_id": "I054",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S02942",
+      "internship_id": "I030",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S00928",
+      "internship_id": "I030",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S01740",
+      "internship_id": "I030",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S01464",
+      "internship_id": "I030",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S05719",
+      "internship_id": "I030",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S00110",
+      "internship_id": "I030",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S02407",
+      "internship_id": "I030",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S00002",
+      "internship_id": "I030",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S01672",
+      "internship_id": "I030",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S05025",
+      "internship_id": "I055",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S01946",
+      "internship_id": "I036",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S05748",
+      "internship_id": "I030",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S04161",
+      "internship_id": "I031",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S05469",
+      "internship_id": "I030",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S01540",
+      "internship_id": "I036",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S05049",
+      "internship_id": "I030",
+      "pref_rank": 4
+    },
+    {
+      "student_id": "S01527",
+      "internship_id": "I031",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S00256",
+      "internship_id": "I013",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S03539",
+      "internship_id": "I031",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S01972",
+      "internship_id": "I031",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S00712",
+      "internship_id": "I031",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S04866",
+      "internship_id": "I031",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S04585",
+      "internship_id": "I064",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S01138",
+      "internship_id": "I038",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S01886",
+      "internship_id": "I053",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S01703",
+      "internship_id": "I031",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S00866",
+      "internship_id": "I031",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S04232",
+      "internship_id": "I062",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S05932",
+      "internship_id": "I031",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S02254",
+      "internship_id": "I031",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S04768",
+      "internship_id": "I067",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S01643",
+      "internship_id": "I031",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S00377",
+      "internship_id": "I031",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S03213",
+      "internship_id": "I031",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S04784",
+      "internship_id": "I031",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S05174",
+      "internship_id": "I032",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S02770",
+      "internship_id": "I032",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S05494",
+      "internship_id": "I032",
+      "pref_rank": 4
+    },
+    {
+      "student_id": "S03886",
+      "internship_id": "I032",
+      "pref_rank": 4
+    },
+    {
+      "student_id": "S02582",
+      "internship_id": "I032",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S04755",
+      "internship_id": "I032",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S03858",
+      "internship_id": "I032",
+      "pref_rank": 4
+    },
+    {
+      "student_id": "S04823",
+      "internship_id": "I032",
+      "pref_rank": 7
+    },
+    {
+      "student_id": "S02172",
+      "internship_id": "I032",
+      "pref_rank": 7
+    },
+    {
+      "student_id": "S05612",
+      "internship_id": "I052",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S05155",
+      "internship_id": "I051",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S05917",
+      "internship_id": "I032",
+      "pref_rank": 7
+    },
+    {
+      "student_id": "S04317",
+      "internship_id": "I032",
+      "pref_rank": 7
+    },
+    {
+      "student_id": "S04975",
+      "internship_id": "I032",
+      "pref_rank": 7
+    },
+    {
+      "student_id": "S04384",
+      "internship_id": "I032",
+      "pref_rank": 7
+    },
+    {
+      "student_id": "S05387",
+      "internship_id": "I032",
+      "pref_rank": 7
+    },
+    {
+      "student_id": "S04905",
+      "internship_id": "I061",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S03140",
+      "internship_id": "I032",
+      "pref_rank": 7
+    },
+    {
+      "student_id": "S04996",
+      "internship_id": "I067",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S04534",
+      "internship_id": "I032",
+      "pref_rank": 7
+    },
+    {
+      "student_id": "S00212",
+      "internship_id": "I032",
+      "pref_rank": 7
+    },
+    {
+      "student_id": "S00442",
+      "internship_id": "I032",
+      "pref_rank": 7
+    },
+    {
+      "student_id": "S03836",
+      "internship_id": "I033",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S02641",
+      "internship_id": "I033",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S01413",
+      "internship_id": "I033",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S00047",
+      "internship_id": "I033",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S03934",
+      "internship_id": "I033",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S02517",
+      "internship_id": "I033",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S03390",
+      "internship_id": "I051",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S03034",
+      "internship_id": "I014",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S02926",
+      "internship_id": "I033",
+      "pref_rank": 7
+    },
+    {
+      "student_id": "S00073",
+      "internship_id": "I033",
+      "pref_rank": 7
+    },
+    {
+      "student_id": "S03475",
+      "internship_id": "I033",
+      "pref_rank": 7
+    },
+    {
+      "student_id": "S02509",
+      "internship_id": "I033",
+      "pref_rank": 7
+    },
+    {
+      "student_id": "S00335",
+      "internship_id": "I033",
+      "pref_rank": 7
+    },
+    {
+      "student_id": "S02692",
+      "internship_id": "I033",
+      "pref_rank": 7
+    },
+    {
+      "student_id": "S04990",
+      "internship_id": "I055",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S04806",
+      "internship_id": "I033",
+      "pref_rank": 7
+    },
+    {
+      "student_id": "S01766",
+      "internship_id": "I033",
+      "pref_rank": 7
+    },
+    {
+      "student_id": "S01633",
+      "internship_id": "I033",
+      "pref_rank": 7
+    },
+    {
+      "student_id": "S00570",
+      "internship_id": "I033",
+      "pref_rank": 7
+    },
+    {
+      "student_id": "S03891",
+      "internship_id": "I033",
+      "pref_rank": 7
+    },
+    {
+      "student_id": "S00253",
+      "internship_id": "I033",
+      "pref_rank": 7
+    },
+    {
+      "student_id": "S02835",
+      "internship_id": "I034",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S03130",
+      "internship_id": "I034",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S03675",
+      "internship_id": "I026",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S01756",
+      "internship_id": "I034",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S00834",
+      "internship_id": "I034",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S01067",
+      "internship_id": "I034",
+      "pref_rank": 4
+    },
+    {
+      "student_id": "S03179",
+      "internship_id": "I034",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S02911",
+      "internship_id": "I034",
+      "pref_rank": 4
+    },
+    {
+      "student_id": "S02837",
+      "internship_id": "I034",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S05210",
+      "internship_id": "I035",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S00153",
+      "internship_id": "I034",
+      "pref_rank": 5
+    },
+    {
+      "student_id": "S02059",
+      "internship_id": "I034",
+      "pref_rank": 7
+    },
+    {
+      "student_id": "S00388",
+      "internship_id": "I034",
+      "pref_rank": 7
+    },
+    {
+      "student_id": "S00300",
+      "internship_id": "I034",
+      "pref_rank": 7
+    },
+    {
+      "student_id": "S01753",
+      "internship_id": "I007",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S01581",
+      "internship_id": "I034",
+      "pref_rank": 7
+    },
+    {
+      "student_id": "S04979",
+      "internship_id": "I034",
+      "pref_rank": 7
+    },
+    {
+      "student_id": "S00046",
+      "internship_id": "I034",
+      "pref_rank": 7
+    },
+    {
+      "student_id": "S00505",
+      "internship_id": "I034",
+      "pref_rank": 7
+    },
+    {
+      "student_id": "S03541",
+      "internship_id": "I034",
+      "pref_rank": 7
+    },
+    {
+      "student_id": "S01513",
+      "internship_id": "I035",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S01103",
+      "internship_id": "I035",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S03168",
+      "internship_id": "I035",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S03281",
+      "internship_id": "I035",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S02721",
+      "internship_id": "I035",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S04777",
+      "internship_id": "I035",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S04800",
+      "internship_id": "I035",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S03298",
+      "internship_id": "I035",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S05937",
+      "internship_id": "I035",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S00917",
+      "internship_id": "I027",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S02595",
+      "internship_id": "I035",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S01335",
+      "internship_id": "I035",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S00031",
+      "internship_id": "I035",
+      "pref_rank": 4
+    },
+    {
+      "student_id": "S03339",
+      "internship_id": "I040",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S05026",
+      "internship_id": "I036",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S00922",
+      "internship_id": "I036",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S01670",
+      "internship_id": "I036",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S03975",
+      "internship_id": "I048",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S00998",
+      "internship_id": "I026",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S02916",
+      "internship_id": "I036",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S01660",
+      "internship_id": "I036",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S05899",
+      "internship_id": "I036",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S05521",
+      "internship_id": "I053",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S01433",
+      "internship_id": "I036",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S05368",
+      "internship_id": "I036",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S02969",
+      "internship_id": "I036",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S03275",
+      "internship_id": "I036",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S01915",
+      "internship_id": "I036",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S04928",
+      "internship_id": "I036",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S02655",
+      "internship_id": "I036",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S02506",
+      "internship_id": "I037",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S02365",
+      "internship_id": "I054",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S04813",
+      "internship_id": "I037",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S01422",
+      "internship_id": "I037",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S02800",
+      "internship_id": "I037",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S01483",
+      "internship_id": "I037",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S05079",
+      "internship_id": "I037",
+      "pref_rank": 4
+    },
+    {
+      "student_id": "S00933",
+      "internship_id": "I037",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S00616",
+      "internship_id": "I022",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S04187",
+      "internship_id": "I062",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S01405",
+      "internship_id": "I037",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S01342",
+      "internship_id": "I037",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S02742",
+      "internship_id": "I037",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S01517",
+      "internship_id": "I037",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S02693",
+      "internship_id": "I037",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S02143",
+      "internship_id": "I037",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S02746",
+      "internship_id": "I037",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S04197",
+      "internship_id": "I059",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S00584",
+      "internship_id": "I037",
+      "pref_rank": 4
+    },
+    {
+      "student_id": "S02927",
+      "internship_id": "I038",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S03711",
+      "internship_id": "I038",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S04137",
+      "internship_id": "I038",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S01601",
+      "internship_id": "I038",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S01240",
+      "internship_id": "I038",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S04609",
+      "internship_id": "I038",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S00614",
+      "internship_id": "I038",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S04888",
+      "internship_id": "I038",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S03000",
+      "internship_id": "I038",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S00831",
+      "internship_id": "I038",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S01991",
+      "internship_id": "I038",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S01528",
+      "internship_id": "I038",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S03859",
+      "internship_id": "I038",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S03823",
+      "internship_id": "I038",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S00478",
+      "internship_id": "I038",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S03686",
+      "internship_id": "I039",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S05563",
+      "internship_id": "I039",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S00690",
+      "internship_id": "I039",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S03834",
+      "internship_id": "I039",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S03914",
+      "internship_id": "I039",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S03399",
+      "internship_id": "I039",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S02100",
+      "internship_id": "I039",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S03906",
+      "internship_id": "I039",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S01518",
+      "internship_id": "I039",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S02283",
+      "internship_id": "I039",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S02745",
+      "internship_id": "I039",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S04277",
+      "internship_id": "I039",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S01383",
+      "internship_id": "I039",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S01819",
+      "internship_id": "I039",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S00671",
+      "internship_id": "I039",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S05782",
+      "internship_id": "I039",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S01691",
+      "internship_id": "I040",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S00367",
+      "internship_id": "I040",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S01349",
+      "internship_id": "I040",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S02258",
+      "internship_id": "I040",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S01550",
+      "internship_id": "I040",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S01529",
+      "internship_id": "I040",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S03713",
+      "internship_id": "I040",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S00287",
+      "internship_id": "I040",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S00510",
+      "internship_id": "I040",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S05965",
+      "internship_id": "I040",
+      "pref_rank": 4
+    },
+    {
+      "student_id": "S00747",
+      "internship_id": "I040",
+      "pref_rank": 5
+    },
+    {
+      "student_id": "S05843",
+      "internship_id": "I040",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S03593",
+      "internship_id": "I040",
+      "pref_rank": 5
+    },
+    {
+      "student_id": "S01337",
+      "internship_id": "I040",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S01109",
+      "internship_id": "I040",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S01837",
+      "internship_id": "I040",
+      "pref_rank": 4
+    },
+    {
+      "student_id": "S02329",
+      "internship_id": "I040",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S04081",
+      "internship_id": "I040",
+      "pref_rank": 7
+    },
+    {
+      "student_id": "S02301",
+      "internship_id": "I040",
+      "pref_rank": 7
+    },
+    {
+      "student_id": "S04748",
+      "internship_id": "I040",
+      "pref_rank": 7
+    },
+    {
+      "student_id": "S02339",
+      "internship_id": "I040",
+      "pref_rank": 7
+    },
+    {
+      "student_id": "S01603",
+      "internship_id": "I041",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S02559",
+      "internship_id": "I041",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S00238",
+      "internship_id": "I059",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S03937",
+      "internship_id": "I041",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S00872",
+      "internship_id": "I041",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S01783",
+      "internship_id": "I041",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S05365",
+      "internship_id": "I041",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S05299",
+      "internship_id": "I041",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S03522",
+      "internship_id": "I041",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S03069",
+      "internship_id": "I041",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S03078",
+      "internship_id": "I041",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S00121",
+      "internship_id": "I041",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S03981",
+      "internship_id": "I041",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S01758",
+      "internship_id": "I041",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S02114",
+      "internship_id": "I041",
+      "pref_rank": 4
+    },
+    {
+      "student_id": "S01066",
+      "internship_id": "I042",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S00791",
+      "internship_id": "I042",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S02824",
+      "internship_id": "I042",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S05717",
+      "internship_id": "I042",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S00701",
+      "internship_id": "I042",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S05047",
+      "internship_id": "I042",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S00923",
+      "internship_id": "I042",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S05037",
+      "internship_id": "I042",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S01976",
+      "internship_id": "I042",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S05157",
+      "internship_id": "I042",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S03163",
+      "internship_id": "I042",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S03389",
+      "internship_id": "I042",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S03332",
+      "internship_id": "I042",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S02252",
+      "internship_id": "I042",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S03730",
+      "internship_id": "I042",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S05509",
+      "internship_id": "I042",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S04482",
+      "internship_id": "I042",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S03365",
+      "internship_id": "I042",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S02464",
+      "internship_id": "I043",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S00812",
+      "internship_id": "I043",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S00326",
+      "internship_id": "I043",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S02308",
+      "internship_id": "I043",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S03415",
+      "internship_id": "I043",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S00680",
+      "internship_id": "I043",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S05416",
+      "internship_id": "I043",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S05156",
+      "internship_id": "I043",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S01933",
+      "internship_id": "I043",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S00291",
+      "internship_id": "I043",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S00103",
+      "internship_id": "I043",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S03586",
+      "internship_id": "I043",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S01793",
+      "internship_id": "I043",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S03785",
+      "internship_id": "I043",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S03867",
+      "internship_id": "I043",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S01963",
+      "internship_id": "I043",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S01707",
+      "internship_id": "I043",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S02250",
+      "internship_id": "I043",
+      "pref_rank": 4
+    },
+    {
+      "student_id": "S00974",
+      "internship_id": "I043",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S01220",
+      "internship_id": "I043",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S01882",
+      "internship_id": "I044",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S00763",
+      "internship_id": "I044",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S05765",
+      "internship_id": "I044",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S03554",
+      "internship_id": "I044",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S04516",
+      "internship_id": "I044",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S00386",
+      "internship_id": "I044",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S02999",
+      "internship_id": "I044",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S05394",
+      "internship_id": "I044",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S04216",
+      "internship_id": "I044",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S01704",
+      "internship_id": "I057",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S00582",
+      "internship_id": "I044",
+      "pref_rank": 4
+    },
+    {
+      "student_id": "S02268",
+      "internship_id": "I044",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S00501",
+      "internship_id": "I044",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S01690",
+      "internship_id": "I044",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S03913",
+      "internship_id": "I044",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S03626",
+      "internship_id": "I044",
+      "pref_rank": 4
+    },
+    {
+      "student_id": "S05078",
+      "internship_id": "I045",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S00472",
+      "internship_id": "I045",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S00126",
+      "internship_id": "I045",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S01362",
+      "internship_id": "I045",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S03560",
+      "internship_id": "I045",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S05260",
+      "internship_id": "I045",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S00962",
+      "internship_id": "I045",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S00145",
+      "internship_id": "I045",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S03406",
+      "internship_id": "I045",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S01650",
+      "internship_id": "I045",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S04930",
+      "internship_id": "I045",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S01068",
+      "internship_id": "I045",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S03738",
+      "internship_id": "I045",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S00113",
+      "internship_id": "I045",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S02666",
+      "internship_id": "I045",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S02720",
+      "internship_id": "I045",
+      "pref_rank": 4
+    },
+    {
+      "student_id": "S00193",
+      "internship_id": "I045",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S03182",
+      "internship_id": "I024",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S05240",
+      "internship_id": "I046",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S04935",
+      "internship_id": "I046",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S04124",
+      "internship_id": "I046",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S03967",
+      "internship_id": "I046",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S02035",
+      "internship_id": "I046",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S02658",
+      "internship_id": "I046",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S02320",
+      "internship_id": "I046",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S02758",
+      "internship_id": "I046",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S02411",
+      "internship_id": "I046",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S01514",
+      "internship_id": "I046",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S05572",
+      "internship_id": "I046",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S01969",
+      "internship_id": "I046",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S03286",
+      "internship_id": "I046",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S01047",
+      "internship_id": "I046",
+      "pref_rank": 4
+    },
+    {
+      "student_id": "S01200",
+      "internship_id": "I046",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S02502",
+      "internship_id": "I046",
+      "pref_rank": 4
+    },
+    {
+      "student_id": "S01235",
+      "internship_id": "I046",
+      "pref_rank": 4
+    },
+    {
+      "student_id": "S05768",
+      "internship_id": "I046",
+      "pref_rank": 5
+    },
+    {
+      "student_id": "S03165",
+      "internship_id": "I046",
+      "pref_rank": 4
+    },
+    {
+      "student_id": "S03600",
+      "internship_id": "I046",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S01023",
+      "internship_id": "I047",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S00232",
+      "internship_id": "I047",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S03518",
+      "internship_id": "I047",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S04811",
+      "internship_id": "I047",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S03413",
+      "internship_id": "I047",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S00985",
+      "internship_id": "I047",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S02466",
+      "internship_id": "I047",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S03976",
+      "internship_id": "I047",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S03472",
+      "internship_id": "I016",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S04186",
+      "internship_id": "I047",
+      "pref_rank": 5
+    },
+    {
+      "student_id": "S00128",
+      "internship_id": "I047",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S03908",
+      "internship_id": "I054",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S05972",
+      "internship_id": "I047",
+      "pref_rank": 4
+    },
+    {
+      "student_id": "S04082",
+      "internship_id": "I047",
+      "pref_rank": 4
+    },
+    {
+      "student_id": "S02020",
+      "internship_id": "I047",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S02357",
+      "internship_id": "I047",
+      "pref_rank": 4
+    },
+    {
+      "student_id": "S05528",
+      "internship_id": "I047",
+      "pref_rank": 7
+    },
+    {
+      "student_id": "S02893",
+      "internship_id": "I047",
+      "pref_rank": 7
+    },
+    {
+      "student_id": "S03848",
+      "internship_id": "I047",
+      "pref_rank": 7
+    },
+    {
+      "student_id": "S02704",
+      "internship_id": "I047",
+      "pref_rank": 7
+    },
+    {
+      "student_id": "S00740",
+      "internship_id": "I047",
+      "pref_rank": 7
+    },
+    {
+      "student_id": "S00885",
+      "internship_id": "I047",
+      "pref_rank": 5
+    },
+    {
+      "student_id": "S00267",
+      "internship_id": "I047",
+      "pref_rank": 7
+    },
+    {
+      "student_id": "S05350",
+      "internship_id": "I063",
+      "pref_rank": 5
+    },
+    {
+      "student_id": "S01465",
+      "internship_id": "I048",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S04695",
+      "internship_id": "I048",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S01160",
+      "internship_id": "I048",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S00940",
+      "internship_id": "I048",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S04637",
+      "internship_id": "I048",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S00776",
+      "internship_id": "I048",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S05944",
+      "internship_id": "I048",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S04862",
+      "internship_id": "I062",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S01063",
+      "internship_id": "I048",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S00021",
+      "internship_id": "I048",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S04655",
+      "internship_id": "I048",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S04255",
+      "internship_id": "I048",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S04844",
+      "internship_id": "I048",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S03469",
+      "internship_id": "I048",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S02925",
+      "internship_id": "I048",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S02399",
+      "internship_id": "I048",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S02401",
+      "internship_id": "I049",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S02696",
+      "internship_id": "I049",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S04131",
+      "internship_id": "I065",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S02041",
+      "internship_id": "I049",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S05601",
+      "internship_id": "I055",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S00030",
+      "internship_id": "I049",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S01173",
+      "internship_id": "I049",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S05045",
+      "internship_id": "I049",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S05453",
+      "internship_id": "I049",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S03782",
+      "internship_id": "I049",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S05372",
+      "internship_id": "I049",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S01592",
+      "internship_id": "I049",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S03261",
+      "internship_id": "I049",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S05354",
+      "internship_id": "I050",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S04336",
+      "internship_id": "I050",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S00278",
+      "internship_id": "I050",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S02046",
+      "internship_id": "I050",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S02967",
+      "internship_id": "I050",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S02715",
+      "internship_id": "I050",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S01356",
+      "internship_id": "I050",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S01148",
+      "internship_id": "I050",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S02753",
+      "internship_id": "I050",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S04247",
+      "internship_id": "I050",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S03830",
+      "internship_id": "I050",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S05775",
+      "internship_id": "I050",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S03010",
+      "internship_id": "I050",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S03126",
+      "internship_id": "I050",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S01873",
+      "internship_id": "I050",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S05171",
+      "internship_id": "I050",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S04872",
+      "internship_id": "I050",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S00225",
+      "internship_id": "I050",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S04858",
+      "internship_id": "I050",
+      "pref_rank": 4
+    },
+    {
+      "student_id": "S04155",
+      "internship_id": "I050",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S00319",
+      "internship_id": "I050",
+      "pref_rank": 4
+    },
+    {
+      "student_id": "S04820",
+      "internship_id": "I050",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S01463",
+      "internship_id": "I050",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S02738",
+      "internship_id": "I051",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S02905",
+      "internship_id": "I051",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S00839",
+      "internship_id": "I051",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S05307",
+      "internship_id": "I051",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S03773",
+      "internship_id": "I051",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S01146",
+      "internship_id": "I051",
+      "pref_rank": 4
+    },
+    {
+      "student_id": "S01751",
+      "internship_id": "I051",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S00851",
+      "internship_id": "I051",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S05306",
+      "internship_id": "I051",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S04039",
+      "internship_id": "I063",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S05989",
+      "internship_id": "I051",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S05671",
+      "internship_id": "I052",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S03932",
+      "internship_id": "I051",
+      "pref_rank": 4
+    },
+    {
+      "student_id": "S02525",
+      "internship_id": "I051",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S04056",
+      "internship_id": "I051",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S05194",
+      "internship_id": "I051",
+      "pref_rank": 4
+    },
+    {
+      "student_id": "S00897",
+      "internship_id": "I052",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S05126",
+      "internship_id": "I052",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S00524",
+      "internship_id": "I051",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S03104",
+      "internship_id": "I052",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S02008",
+      "internship_id": "I052",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S02402",
+      "internship_id": "I003",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S05999",
+      "internship_id": "I052",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S05598",
+      "internship_id": "I052",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S02127",
+      "internship_id": "I052",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S05896",
+      "internship_id": "I056",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S03154",
+      "internship_id": "I056",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S04065",
+      "internship_id": "I052",
+      "pref_rank": 4
+    },
+    {
+      "student_id": "S03545",
+      "internship_id": "I052",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S04126",
+      "internship_id": "I052",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S02187",
+      "internship_id": "I052",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S00593",
+      "internship_id": "I052",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S02130",
+      "internship_id": "I052",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S04774",
+      "internship_id": "I052",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S00555",
+      "internship_id": "I053",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S00876",
+      "internship_id": "I053",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S03548",
+      "internship_id": "I053",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S00794",
+      "internship_id": "I053",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S05419",
+      "internship_id": "I053",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S05074",
+      "internship_id": "I053",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S05411",
+      "internship_id": "I053",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S05065",
+      "internship_id": "I053",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S04209",
+      "internship_id": "I053",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S03219",
+      "internship_id": "I053",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S04992",
+      "internship_id": "I053",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S05035",
+      "internship_id": "I053",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S05262",
+      "internship_id": "I053",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S02317",
+      "internship_id": "I053",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S04773",
+      "internship_id": "I063",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S01444",
+      "internship_id": "I053",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S05147",
+      "internship_id": "I053",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S00827",
+      "internship_id": "I053",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S03482",
+      "internship_id": "I053",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S05531",
+      "internship_id": "I066",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S02288",
+      "internship_id": "I054",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S01726",
+      "internship_id": "I054",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S05575",
+      "internship_id": "I054",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S01088",
+      "internship_id": "I054",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S02623",
+      "internship_id": "I054",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S03400",
+      "internship_id": "I054",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S05172",
+      "internship_id": "I054",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S00790",
+      "internship_id": "I054",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S03887",
+      "internship_id": "I054",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S05640",
+      "internship_id": "I054",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S04190",
+      "internship_id": "I054",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S04982",
+      "internship_id": "I054",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S02830",
+      "internship_id": "I018",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S03016",
+      "internship_id": "I054",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S05911",
+      "internship_id": "I054",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S01787",
+      "internship_id": "I054",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S01561",
+      "internship_id": "I055",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S03841",
+      "internship_id": "I055",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S01539",
+      "internship_id": "I055",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S05473",
+      "internship_id": "I055",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S03831",
+      "internship_id": "I055",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S00756",
+      "internship_id": "I055",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S02580",
+      "internship_id": "I055",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S00778",
+      "internship_id": "I055",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S00796",
+      "internship_id": "I055",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S04343",
+      "internship_id": "I055",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S04382",
+      "internship_id": "I055",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S05253",
+      "internship_id": "I055",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S03461",
+      "internship_id": "I055",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S03582",
+      "internship_id": "I055",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S02331",
+      "internship_id": "I055",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S01156",
+      "internship_id": "I056",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S00376",
+      "internship_id": "I056",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S00688",
+      "internship_id": "I056",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S05393",
+      "internship_id": "I056",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S05454",
+      "internship_id": "I056",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S02859",
+      "internship_id": "I056",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S01014",
+      "internship_id": "I056",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S02627",
+      "internship_id": "I056",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S05513",
+      "internship_id": "I056",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S00598",
+      "internship_id": "I056",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S03646",
+      "internship_id": "I056",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S04687",
+      "internship_id": "I056",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S03063",
+      "internship_id": "I056",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S05682",
+      "internship_id": "I056",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S01859",
+      "internship_id": "I056",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S05158",
+      "internship_id": "I005",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S01927",
+      "internship_id": "I056",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S04783",
+      "internship_id": "I056",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S01618",
+      "internship_id": "I057",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S02754",
+      "internship_id": "I057",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S02943",
+      "internship_id": "I057",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S02487",
+      "internship_id": "I057",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S03236",
+      "internship_id": "I057",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S00380",
+      "internship_id": "I057",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S00471",
+      "internship_id": "I057",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S01485",
+      "internship_id": "I057",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S03758",
+      "internship_id": "I057",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S03571",
+      "internship_id": "I057",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S01822",
+      "internship_id": "I057",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S02497",
+      "internship_id": "I057",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S01360",
+      "internship_id": "I057",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S02769",
+      "internship_id": "I057",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S01241",
+      "internship_id": "I057",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S03423",
+      "internship_id": "I057",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S00306",
+      "internship_id": "I057",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S01022",
+      "internship_id": "I057",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S00429",
+      "internship_id": "I057",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S03903",
+      "internship_id": "I058",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S02262",
+      "internship_id": "I058",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S02766",
+      "internship_id": "I058",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S04416",
+      "internship_id": "I058",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S01385",
+      "internship_id": "I058",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S05966",
+      "internship_id": "I058",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S01033",
+      "internship_id": "I058",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S03602",
+      "internship_id": "I058",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S02463",
+      "internship_id": "I021",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S05515",
+      "internship_id": "I058",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S01387",
+      "internship_id": "I058",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S00781",
+      "internship_id": "I058",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S00227",
+      "internship_id": "I058",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S02282",
+      "internship_id": "I058",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S02071",
+      "internship_id": "I002",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S03766",
+      "internship_id": "I058",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S00848",
+      "internship_id": "I058",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S01741",
+      "internship_id": "I059",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S02133",
+      "internship_id": "I059",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S00209",
+      "internship_id": "I059",
+      "pref_rank": 4
+    },
+    {
+      "student_id": "S00576",
+      "internship_id": "I059",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S05309",
+      "internship_id": "I059",
+      "pref_rank": 4
+    },
+    {
+      "student_id": "S03354",
+      "internship_id": "I059",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S01949",
+      "internship_id": "I059",
+      "pref_rank": 4
+    },
+    {
+      "student_id": "S01410",
+      "internship_id": "I059",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S02988",
+      "internship_id": "I059",
+      "pref_rank": 4
+    },
+    {
+      "student_id": "S00586",
+      "internship_id": "I059",
+      "pref_rank": 7
+    },
+    {
+      "student_id": "S01095",
+      "internship_id": "I058",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S01428",
+      "internship_id": "I047",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S02116",
+      "internship_id": "I047",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S05468",
+      "internship_id": "I059",
+      "pref_rank": 7
+    },
+    {
+      "student_id": "S04618",
+      "internship_id": "I059",
+      "pref_rank": 7
+    },
+    {
+      "student_id": "S00003",
+      "internship_id": "I059",
+      "pref_rank": 7
+    },
+    {
+      "student_id": "S05058",
+      "internship_id": "I030",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S05789",
+      "internship_id": "I060",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S01439",
+      "internship_id": "I060",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S01747",
+      "internship_id": "I060",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S01221",
+      "internship_id": "I060",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S01256",
+      "internship_id": "I060",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S03256",
+      "internship_id": "I060",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S03533",
+      "internship_id": "I060",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S01097",
+      "internship_id": "I060",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S02588",
+      "internship_id": "I060",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S01226",
+      "internship_id": "I060",
+      "pref_rank": 7
+    },
+    {
+      "student_id": "S03364",
+      "internship_id": "I060",
+      "pref_rank": 6
+    },
+    {
+      "student_id": "S02180",
+      "internship_id": "I060",
+      "pref_rank": 7
+    },
+    {
+      "student_id": "S01402",
+      "internship_id": "I004",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S02972",
+      "internship_id": "I060",
+      "pref_rank": 7
+    },
+    {
+      "student_id": "S00148",
+      "internship_id": "I060",
+      "pref_rank": 7
+    },
+    {
+      "student_id": "S01379",
+      "internship_id": "I060",
+      "pref_rank": 7
+    },
+    {
+      "student_id": "S04031",
+      "internship_id": "I060",
+      "pref_rank": 7
+    },
+    {
+      "student_id": "S01209",
+      "internship_id": "I060",
+      "pref_rank": 7
+    },
+    {
+      "student_id": "S05971",
+      "internship_id": "I060",
+      "pref_rank": 7
+    },
+    {
+      "student_id": "S03206",
+      "internship_id": "I025",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S03489",
+      "internship_id": "I060",
+      "pref_rank": 7
+    },
+    {
+      "student_id": "S05384",
+      "internship_id": "I060",
+      "pref_rank": 7
+    },
+    {
+      "student_id": "S04793",
+      "internship_id": "I061",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S04762",
+      "internship_id": "I061",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S04895",
+      "internship_id": "I061",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S04532",
+      "internship_id": "I061",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S04441",
+      "internship_id": "I061",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S04722",
+      "internship_id": "I061",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S04191",
+      "internship_id": "I061",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S04435",
+      "internship_id": "I061",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S04948",
+      "internship_id": "I061",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S05536",
+      "internship_id": "I061",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S04438",
+      "internship_id": "I061",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S03857",
+      "internship_id": "I061",
+      "pref_rank": 7
+    },
+    {
+      "student_id": "S04550",
+      "internship_id": "I061",
+      "pref_rank": 7
+    },
+    {
+      "student_id": "S05952",
+      "internship_id": "I061",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S04253",
+      "internship_id": "I061",
+      "pref_rank": 7
+    },
+    {
+      "student_id": "S02983",
+      "internship_id": "I061",
+      "pref_rank": 7
+    },
+    {
+      "student_id": "S04488",
+      "internship_id": "I061",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S05356",
+      "internship_id": "I061",
+      "pref_rank": 7
+    },
+    {
+      "student_id": "S04670",
+      "internship_id": "I062",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S05837",
+      "internship_id": "I062",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S05693",
+      "internship_id": "I062",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S04997",
+      "internship_id": "I062",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S04776",
+      "internship_id": "I062",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S04740",
+      "internship_id": "I062",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S04327",
+      "internship_id": "I062",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S04175",
+      "internship_id": "I062",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S04513",
+      "internship_id": "I066",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S04366",
+      "internship_id": "I064",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S04368",
+      "internship_id": "I062",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S04962",
+      "internship_id": "I063",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S04047",
+      "internship_id": "I063",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S04914",
+      "internship_id": "I063",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S04367",
+      "internship_id": "I063",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S04537",
+      "internship_id": "I063",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S04546",
+      "internship_id": "I063",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S04719",
+      "internship_id": "I063",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S05798",
+      "internship_id": "I063",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S04314",
+      "internship_id": "I063",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S05421",
+      "internship_id": "I050",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S05883",
+      "internship_id": "I063",
+      "pref_rank": 4
+    },
+    {
+      "student_id": "S04573",
+      "internship_id": "I063",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S05905",
+      "internship_id": "I063",
+      "pref_rank": 7
+    },
+    {
+      "student_id": "S04871",
+      "internship_id": "I069",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S00085",
+      "internship_id": "I008",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S05086",
+      "internship_id": "I064",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S04544",
+      "internship_id": "I064",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S04987",
+      "internship_id": "I064",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S04790",
+      "internship_id": "I064",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S04428",
+      "internship_id": "I064",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S04600",
+      "internship_id": "I064",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S04296",
+      "internship_id": "I068",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S01850",
+      "internship_id": "I064",
+      "pref_rank": 7
+    },
+    {
+      "student_id": "S02449",
+      "internship_id": "I064",
+      "pref_rank": 7
+    },
+    {
+      "student_id": "S00067",
+      "internship_id": "I064",
+      "pref_rank": 7
+    },
+    {
+      "student_id": "S02068",
+      "internship_id": "I064",
+      "pref_rank": 7
+    },
+    {
+      "student_id": "S05002",
+      "internship_id": "I064",
+      "pref_rank": 7
+    },
+    {
+      "student_id": "S01322",
+      "internship_id": "I064",
+      "pref_rank": 7
+    },
+    {
+      "student_id": "S04586",
+      "internship_id": "I064",
+      "pref_rank": 7
+    },
+    {
+      "student_id": "S05828",
+      "internship_id": "I064",
+      "pref_rank": 7
+    },
+    {
+      "student_id": "S02784",
+      "internship_id": "I064",
+      "pref_rank": 7
+    },
+    {
+      "student_id": "S01712",
+      "internship_id": "I064",
+      "pref_rank": 7
+    },
+    {
+      "student_id": "S04097",
+      "internship_id": "I064",
+      "pref_rank": 7
+    },
+    {
+      "student_id": "S02029",
+      "internship_id": "I064",
+      "pref_rank": 7
+    },
+    {
+      "student_id": "S04954",
+      "internship_id": "I064",
+      "pref_rank": 7
+    },
+    {
+      "student_id": "S03781",
+      "internship_id": "I064",
+      "pref_rank": 7
+    },
+    {
+      "student_id": "S03254",
+      "internship_id": "I064",
+      "pref_rank": 7
+    },
+    {
+      "student_id": "S04085",
+      "internship_id": "I065",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S04730",
+      "internship_id": "I065",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S04146",
+      "internship_id": "I065",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S04941",
+      "internship_id": "I065",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S04725",
+      "internship_id": "I065",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S04149",
+      "internship_id": "I065",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S05761",
+      "internship_id": "I065",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S04337",
+      "internship_id": "I065",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S04821",
+      "internship_id": "I065",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S05833",
+      "internship_id": "I065",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S04217",
+      "internship_id": "I069",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S04489",
+      "internship_id": "I065",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S04078",
+      "internship_id": "I065",
+      "pref_rank": 4
+    },
+    {
+      "student_id": "S04571",
+      "internship_id": "I065",
+      "pref_rank": 6
+    },
+    {
+      "student_id": "S04038",
+      "internship_id": "I065",
+      "pref_rank": 5
+    },
+    {
+      "student_id": "S05195",
+      "internship_id": "I065",
+      "pref_rank": 5
+    },
+    {
+      "student_id": "S00818",
+      "internship_id": "I065",
+      "pref_rank": 7
+    },
+    {
+      "student_id": "S04988",
+      "internship_id": "I066",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S04184",
+      "internship_id": "I066",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S04698",
+      "internship_id": "I066",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S04742",
+      "internship_id": "I066",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S05505",
+      "internship_id": "I066",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S04289",
+      "internship_id": "I066",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S04509",
+      "internship_id": "I066",
+      "pref_rank": 4
+    },
+    {
+      "student_id": "S04694",
+      "internship_id": "I066",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S04651",
+      "internship_id": "I066",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S05051",
+      "internship_id": "I066",
+      "pref_rank": 5
+    },
+    {
+      "student_id": "S05997",
+      "internship_id": "I066",
+      "pref_rank": 5
+    },
+    {
+      "student_id": "S02629",
+      "internship_id": "I049",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S05819",
+      "internship_id": "I069",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S05197",
+      "internship_id": "I066",
+      "pref_rank": 7
+    },
+    {
+      "student_id": "S02176",
+      "internship_id": "I066",
+      "pref_rank": 7
+    },
+    {
+      "student_id": "S03011",
+      "internship_id": "I011",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S00187",
+      "internship_id": "I066",
+      "pref_rank": 7
+    },
+    {
+      "student_id": "S05945",
+      "internship_id": "I066",
+      "pref_rank": 7
+    },
+    {
+      "student_id": "S04745",
+      "internship_id": "I066",
+      "pref_rank": 6
+    },
+    {
+      "student_id": "S05862",
+      "internship_id": "I067",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S04167",
+      "internship_id": "I067",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S04805",
+      "internship_id": "I067",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S05840",
+      "internship_id": "I067",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S04891",
+      "internship_id": "I067",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S05208",
+      "internship_id": "I067",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S04541",
+      "internship_id": "I067",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S04522",
+      "internship_id": "I067",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S04286",
+      "internship_id": "I067",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S04838",
+      "internship_id": "I067",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S05263",
+      "internship_id": "I067",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S05946",
+      "internship_id": "I067",
+      "pref_rank": 4
+    },
+    {
+      "student_id": "S05281",
+      "internship_id": "I064",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S04965",
+      "internship_id": "I067",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S05908",
+      "internship_id": "I068",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S04403",
+      "internship_id": "I067",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S04127",
+      "internship_id": "I067",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S05940",
+      "internship_id": "I067",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S04792",
+      "internship_id": "I067",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S04940",
+      "internship_id": "I067",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S04048",
+      "internship_id": "I068",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S04826",
+      "internship_id": "I068",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S05758",
+      "internship_id": "I068",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S04702",
+      "internship_id": "I068",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S04406",
+      "internship_id": "I068",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S05726",
+      "internship_id": "I068",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S04095",
+      "internship_id": "I068",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S04527",
+      "internship_id": "I068",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S04797",
+      "internship_id": "I068",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S04021",
+      "internship_id": "I068",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S05745",
+      "internship_id": "I068",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S01871",
+      "internship_id": "I068",
+      "pref_rank": 7
+    },
+    {
+      "student_id": "S05818",
+      "internship_id": "I068",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S04486",
+      "internship_id": "I068",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S00504",
+      "internship_id": "I068",
+      "pref_rank": 7
+    },
+    {
+      "student_id": "S04769",
+      "internship_id": "I069",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S04867",
+      "internship_id": "I069",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S04804",
+      "internship_id": "I069",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S04789",
+      "internship_id": "I069",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S04668",
+      "internship_id": "I069",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S04129",
+      "internship_id": "I069",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S04819",
+      "internship_id": "I069",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S04656",
+      "internship_id": "I069",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S04640",
+      "internship_id": "I069",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S04528",
+      "internship_id": "I069",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S04010",
+      "internship_id": "I069",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S04754",
+      "internship_id": "I069",
+      "pref_rank": 4
+    },
+    {
+      "student_id": "S05939",
+      "internship_id": "I069",
+      "pref_rank": 4
+    },
+    {
+      "student_id": "S00901",
+      "internship_id": "I069",
+      "pref_rank": 7
+    },
+    {
+      "student_id": "S05785",
+      "internship_id": "I069",
+      "pref_rank": 7
+    },
+    {
+      "student_id": "S03651",
+      "internship_id": "I069",
+      "pref_rank": 7
+    },
+    {
+      "student_id": "S03524",
+      "internship_id": "I002",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S03205",
+      "internship_id": "I002",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S01434",
+      "internship_id": "I002",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S01114",
+      "internship_id": "I004",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S02589",
+      "internship_id": "I004",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S01522",
+      "internship_id": "I004",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S00434",
+      "internship_id": "I004",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S03712",
+      "internship_id": "I004",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S03933",
+      "internship_id": "I004",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S02047",
+      "internship_id": "I004",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S02508",
+      "internship_id": "I004",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S04673",
+      "internship_id": "I004",
+      "pref_rank": 4
+    },
+    {
+      "student_id": "S00996",
+      "internship_id": "I005",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S01828",
+      "internship_id": "I005",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S00947",
+      "internship_id": "I005",
+      "pref_rank": 4
+    },
+    {
+      "student_id": "S01426",
+      "internship_id": "I005",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S05249",
+      "internship_id": "I005",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S03826",
+      "internship_id": "I005",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S02170",
+      "internship_id": "I006",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S02785",
+      "internship_id": "I006",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S02476",
+      "internship_id": "I006",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S00829",
+      "internship_id": "I006",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S01968",
+      "internship_id": "I007",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S02153",
+      "internship_id": "I007",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S00197",
+      "internship_id": "I007",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S05039",
+      "internship_id": "I007",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S02653",
+      "internship_id": "I007",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S00059",
+      "internship_id": "I008",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S02468",
+      "internship_id": "I008",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S02428",
+      "internship_id": "I008",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S00769",
+      "internship_id": "I009",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S04904",
+      "internship_id": "I009",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S01289",
+      "internship_id": "I010",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S02553",
+      "internship_id": "I010",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S03041",
+      "internship_id": "I012",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S05032",
+      "internship_id": "I012",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S03061",
+      "internship_id": "I012",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S00339",
+      "internship_id": "I012",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S03924",
+      "internship_id": "I013",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S05071",
+      "internship_id": "I014",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S00806",
+      "internship_id": "I014",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S02126",
+      "internship_id": "I015",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S02886",
+      "internship_id": "I016",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S00074",
+      "internship_id": "I016",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S03745",
+      "internship_id": "I016",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S05016",
+      "internship_id": "I018",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S01419",
+      "internship_id": "I018",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S01320",
+      "internship_id": "I018",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S01034",
+      "internship_id": "I019",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S00163",
+      "internship_id": "I019",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S00486",
+      "internship_id": "I019",
+      "pref_rank": 4
+    },
+    {
+      "student_id": "S01134",
+      "internship_id": "I019",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S01877",
+      "internship_id": "I019",
+      "pref_rank": 5
+    },
+    {
+      "student_id": "S02376",
+      "internship_id": "I019",
+      "pref_rank": 7
+    },
+    {
+      "student_id": "S05241",
+      "internship_id": "I019",
+      "pref_rank": 7
+    },
+    {
+      "student_id": "S03024",
+      "internship_id": "I020",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S01236",
+      "internship_id": "I020",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S03093",
+      "internship_id": "I021",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S00269",
+      "internship_id": "I022",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S01887",
+      "internship_id": "I022",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S00779",
+      "internship_id": "I022",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S04075",
+      "internship_id": "I022",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S00201",
+      "internship_id": "I024",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S01316",
+      "internship_id": "I024",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S05029",
+      "internship_id": "I025",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S05057",
+      "internship_id": "I025",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S02679",
+      "internship_id": "I025",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S03556",
+      "internship_id": "I025",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S03412",
+      "internship_id": "I032",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S03889",
+      "internship_id": "I026",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S00965",
+      "internship_id": "I026",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S01918",
+      "internship_id": "I026",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S03638",
+      "internship_id": "I026",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S03007",
+      "internship_id": "I027",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S03113",
+      "internship_id": "I027",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S04947",
+      "internship_id": "I027",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S05898",
+      "internship_id": "I027",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S00854",
+      "internship_id": "I030",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S02944",
+      "internship_id": "I030",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S03029",
+      "internship_id": "I030",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S01909",
+      "internship_id": "I031",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S00702",
+      "internship_id": "I031",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S00795",
+      "internship_id": "I031",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S02315",
+      "internship_id": "I031",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S00908",
+      "internship_id": "I032",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S04674",
+      "internship_id": "I032",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S00822",
+      "internship_id": "I032",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S00418",
+      "internship_id": "I033",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S02039",
+      "internship_id": "I033",
+      "pref_rank": 4
+    },
+    {
+      "student_id": "S04377",
+      "internship_id": "I033",
+      "pref_rank": 4
+    },
+    {
+      "student_id": "S01860",
+      "internship_id": "I034",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S02080",
+      "internship_id": "I035",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S05412",
+      "internship_id": "I035",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S03089",
+      "internship_id": "I036",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S05133",
+      "internship_id": "I036",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S05474",
+      "internship_id": "I037",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S01637",
+      "internship_id": "I037",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S05792",
+      "internship_id": "I037",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S01460",
+      "internship_id": "I037",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S01456",
+      "internship_id": "I040",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S05277",
+      "internship_id": "I043",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S03931",
+      "internship_id": "I044",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S03922",
+      "internship_id": "I044",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S00994",
+      "internship_id": "I044",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S04108",
+      "internship_id": "I045",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S00677",
+      "internship_id": "I045",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S02707",
+      "internship_id": "I047",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S02505",
+      "internship_id": "I048",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S01157",
+      "internship_id": "I048",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S01324",
+      "internship_id": "I048",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S00370",
+      "internship_id": "I049",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S05653",
+      "internship_id": "I052",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S01225",
+      "internship_id": "I052",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S02961",
+      "internship_id": "I052",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S02964",
+      "internship_id": "I052",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S04981",
+      "internship_id": "I053",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S05921",
+      "internship_id": "I058",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S01775",
+      "internship_id": "I058",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S00926",
+      "internship_id": "I059",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S00879",
+      "internship_id": "I059",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S01823",
+      "internship_id": "I060",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S04202",
+      "internship_id": "I062",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S04652",
+      "internship_id": "I063",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S04248",
+      "internship_id": "I063",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S04267",
+      "internship_id": "I066",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S04140",
+      "internship_id": "I067",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S03499",
+      "internship_id": "I005",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S02076",
+      "internship_id": "I007",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S01031",
+      "internship_id": "I007",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S03672",
+      "internship_id": "I013",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S01938",
+      "internship_id": "I016",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S05361",
+      "internship_id": "I022",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S00174",
+      "internship_id": "I024",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S01622",
+      "internship_id": "I025",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S00566",
+      "internship_id": "I030",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S00711",
+      "internship_id": "I036",
+      "pref_rank": 2
+    },
+    {
+      "student_id": "S01168",
+      "internship_id": "I059",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S02751",
+      "internship_id": "I059",
+      "pref_rank": 3
+    },
+    {
+      "student_id": "S01824",
+      "internship_id": "I016",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S00224",
+      "internship_id": "I018",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S00875",
+      "internship_id": "I021",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S03810",
+      "internship_id": "I043",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S05343",
+      "internship_id": "I056",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S01230",
+      "internship_id": "I007",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S00617",
+      "internship_id": "I034",
+      "pref_rank": 1
+    },
+    {
+      "student_id": "S01307",
+      "internship_id": "I035",
+      "pref_rank": 1
+    }
+  ],
+  "fairness": {
+    "total_applicants": 6000,
+    "total_placed": 1448,
+    "placement_rate": 0.2413,
+    "category_wise": {
+      "GEN": {
+        "eligible": 3300,
+        "placed": 645,
+        "placement_rate": 0.1955
+      },
+      "OBC": {
+        "eligible": 1558,
+        "placed": 464,
+        "placement_rate": 0.2978
+      },
+      "SC": {
+        "eligible": 707,
+        "placed": 201,
+        "placement_rate": 0.2843
+      },
+      "ST": {
+        "eligible": 435,
+        "placed": 138,
+        "placement_rate": 0.3172
+      }
+    },
+    "gender_wise": {
+      "M": 755,
+      "F": 672,
+      "O": 21
+    },
+    "rural": {
+      "eligible": 2446,
+      "placed": 674,
+      "placement_rate": 0.2756
+    },
+    "round_stats": {
+      "total_applicants": 6000,
+      "total_placed": 1448,
+      "placement_rate": 0.24133333333333334,
+      "category_stats": {
+        "GEN": {
+          "eligible": 227700,
+          "selected": 44505,
+          "rate": 0.19545454545454546
+        },
+        "OBC": {
+          "eligible": 107502,
+          "selected": 32016,
+          "rate": 0.29781771501925547
+        },
+        "SC": {
+          "eligible": 48783,
+          "selected": 13869,
+          "rate": 0.2842998585572843
+        },
+        "ST": {
+          "eligible": 30015,
+          "selected": 9522,
+          "rate": 0.31724137931034485
+        }
+      },
+      "gender_counts_selected": {
+        "M": 52095,
+        "F": 46368,
+        "O": 1449
+      },
+      "rural": {
+        "eligible": 168774,
+        "selected": 46506
+      }
+    }
+  },
+  "round_logs": {
+    "total_applicants": 6000,
+    "total_placed": 1448,
+    "placement_rate": 0.24133333333333334,
+    "category_stats": {
+      "GEN": {
+        "eligible": 227700,
+        "selected": 44505,
+        "rate": 0.19545454545454546
+      },
+      "OBC": {
+        "eligible": 107502,
+        "selected": 32016,
+        "rate": 0.29781771501925547
+      },
+      "SC": {
+        "eligible": 48783,
+        "selected": 13869,
+        "rate": 0.2842998585572843
+      },
+      "ST": {
+        "eligible": 30015,
+        "selected": 9522,
+        "rate": 0.31724137931034485
+      }
+    },
+    "gender_counts_selected": {
+      "M": 52095,
+      "F": 46368,
+      "O": 1449
+    },
+    "rural": {
+      "eligible": 168774,
+      "selected": 46506
+    }
+  },
+  "boost_report": {
+    "boosted_students": 2679,
+    "boosted_selected": 789,
+    "boosted_not_selected": 1890,
+    "uplift_success_rate": 0.2945,
+    "category_uplift_success": {
+      "OBC": 457,
+      "SC": 197,
+      "ST": 135
+    },
+    "rural_uplift_success": 457,
+    "avg_student_boost": 0.1645,
+    "max_boost_per_student": 0.25,
+    "coverage_ratio": 0.4465,
+    "counterfactual_helped_students": 770,
+    "counterfactual_help_rate_among_boosted": 0.2874,
+    "category_counterfactual_help": {
+      "OBC": 443,
+      "SC": 196,
+      "ST": 131
+    },
+    "rural_counterfactual_help": 457
+  }
+}

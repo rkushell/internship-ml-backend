@@ -1,0 +1,73 @@
+{
+  "total_applicants": 6000,
+  "total_placed": 1448,
+  "placement_rate": 0.2413,
+  "category_wise": {
+    "GEN": {
+      "eligible": 3300,
+      "placed": 658,
+      "placement_rate": 0.1994
+    },
+    "OBC": {
+      "eligible": 1558,
+      "placed": 460,
+      "placement_rate": 0.2953
+    },
+    "SC": {
+      "eligible": 707,
+      "placed": 202,
+      "placement_rate": 0.2857
+    },
+    "ST": {
+      "eligible": 435,
+      "placed": 128,
+      "placement_rate": 0.2943
+    }
+  },
+  "gender_wise": {
+    "M": 767,
+    "F": 661,
+    "O": 20
+  },
+  "rural": {
+    "eligible": 2446,
+    "placed": 687,
+    "placement_rate": 0.2809
+  },
+  "round_stats": {
+    "total_applicants": 6000,
+    "total_placed": 1448,
+    "placement_rate": 0.24133333333333334,
+    "category_stats": {
+      "GEN": {
+        "eligible": 227700,
+        "selected": 45402,
+        "rate": 0.1993939393939394
+      },
+      "OBC": {
+        "eligible": 107502,
+        "selected": 31740,
+        "rate": 0.2952503209242619
+      },
+      "SC": {
+        "eligible": 48783,
+        "selected": 13938,
+        "rate": 0.2857142857142857
+      },
+      "ST": {
+        "eligible": 30015,
+        "selected": 8832,
+        "rate": 0.2942528735632184
+      }
+    },
+    "gender_counts_selected": {
+      "M": 52923,
+      "F": 45609,
+      "O": 1380
+    },
+    "rural": {
+      "eligible": 168774,
+      "selected": 47403
+    }
+  }
+}
